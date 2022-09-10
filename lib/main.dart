@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Stack(
                 children: [
                   Container(
-                    height: 70,
+                    height: 60,
                     width: 325,
                     padding: const EdgeInsets.all(10),
                     decoration: BoxDecoration(

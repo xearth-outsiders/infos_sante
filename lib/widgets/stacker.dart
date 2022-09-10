@@ -17,7 +17,7 @@ class Stacker extends StatelessWidget {
                   color: Colors.white,
                   boxShadow: const [
                     BoxShadow(
-                      color: Colors.grey, 
+                      color: Colors.red, 
                       spreadRadius: 1),
                   ],
                 )
