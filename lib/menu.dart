@@ -95,6 +95,7 @@ import 'package:info_sante/news.dart';
               // title: const Text('Woolha.com Flutter Tutorial'),
               backgroundColor: Colors.white,
             ),
+            backgroundColor: Colors.white,
 	
             body: const TabBarView(
               physics: BouncingScrollPhysics(),
