@@ -13,10 +13,8 @@ class Faqs extends StatelessWidget {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start, 
         children: const [
-          SizedBox(height: 75),
-          // ignore: prefer_const_constructors
           Stacker(img: "images/undraw_social_distancing.png"),
-          TestUndraw(title: "Covid-22: Distanciation sociale"),
+          TestUndraw(title: "Covid-19: Distanciation sociale"),
           SizedBox(height: 40),
           Stacker(img: "images/undraw_medicine.png"),
           TestUndraw(title: "Sanitaire: Conseils sur Ebola")

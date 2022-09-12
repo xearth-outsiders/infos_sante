@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:info_sante/fasq.dart';
+// import 'package:info_sante/fasq.dart';
 import 'package:info_sante/menu.dart';
-import 'package:info_sante/news.dart';
+// import 'package:info_sante/news.dart';
 // import 'package:info_sante/news.dart';
 
 class Connexion extends StatefulWidget {
